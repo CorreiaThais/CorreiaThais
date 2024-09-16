@@ -1,7 +1,7 @@
 ## Olá! Sou a Thais Correia Rosa 👋
 
 - 🔭 Atualmente trabalho com front-end
-- 🌱 Estuando bibliotecas, como o React.js
+- 🌱 Estudando bibliotecas, como o React.js
 - 💻 Busco oportunidades para aplicar meus conhecimentos técnicos em desenvolvimento front-end
 
 <div>
