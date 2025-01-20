@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando bibliotecas, como o React.js
-- 💻 Busco oportunidades para aplicar meus conhecimentos técnicos em desenvolvimento front-end
 
 <div>
   <a href="https://github.com/CorreiaThais"></a>
